@@ -1,0 +1,28 @@
+============================================================
+DATA QUALITY REPORT
+============================================================
+
+Total records: 12
+Valid: 8
+Invalid: 4
+
+------------------------------------------------------------
+Field completeness percentages
+------------------------------------------------------------
+  title: 91.7%
+  content: 91.7%
+  url: 91.7%
+  date: 100.0%
+  author: 100.0%
+  tags: 100.0%
+
+------------------------------------------------------------
+Common validation failures
+------------------------------------------------------------
+  [1x] Invalid URL format: 'invalid-url-format'
+  [1x] Required field 'title' is empty
+  [1x] Field 'title' length 0 is below minimum 1
+  [1x] Required field 'content' is None
+  [1x] Required field 'url' is None
+
+============================================================

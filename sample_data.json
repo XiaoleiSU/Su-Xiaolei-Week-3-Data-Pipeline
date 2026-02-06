@@ -1,0 +1,98 @@
+[
+  {
+    "title": "  The Future of Artificial Intelligence in Healthcare  ",
+    "content": "Artificial intelligence is transforming the medical industry. From diagnostic tools to personalized treatment plans, AI systems are helping doctors make better decisions. <p>Machine learning algorithms can now detect patterns in medical imaging that human eyes might miss.</p> The potential for improving patient outcomes is enormous.",
+    "url": "https://techmed.example.com/ai-healthcare-2024",
+    "date": "2024-01-15",
+    "author": "Dr. Sarah Chen",
+    "tags": ["AI", "healthcare", "technology"]
+  },
+  {
+    "title": "Climate Change Report",
+    "content": "x",
+    "url": "https://environment.gov/summary",
+    "date": "15/01/2024",
+    "author": "Environmental Agency",
+    "tags": ["climate", "environment"]
+  },
+  {
+    "title": "Breaking: New Economic Policy Announced",
+    "content": "The government has announced a new economic policy aimed at stimulating growth. Key measures include tax cuts and infrastructure investment. &nbsp; The policy will take effect next quarter. Analysts expect mixed reactions from markets.",
+    "url": "invalid-url-format",
+    "date": "January 20, 2024",
+    "author": "Reuters",
+    "tags": ["economy", "policy"]
+  },
+  {
+    "title": "Machine Learning Tutorial for Beginners",
+    "content": "This comprehensive guide covers the basics of machine learning. <br><br> You will learn about supervised and unsupervised learning. &amp; Don't forget to practice with real datasets. <script>alert('xss')</script> Happy learning!",
+    "url": "https://learn.dev/tutorials/ml-101",
+    "date": "01/20/2024",
+    "author": "Tech Academy",
+    "tags": ["machine-learning", "tutorial"]
+  },
+  {
+    "title": "",
+    "content": "An article about renewable energy sources and their impact on the grid. Solar and wind power are becoming more cost-effective each year.",
+    "url": "https://energy.world/renewables-2024",
+    "date": "20.01.2024",
+    "author": "Energy Weekly",
+    "tags": []
+  },
+  {
+    "title": "The Rise of Remote Work",
+    "content": "Remote work has fundamentally changed how companies operate. Many employees now prefer hybrid or fully remote arrangements. Companies that adapt will attract top talent.",
+    "url": "https://business-insider.com/remote-work-trends",
+    "date": "Feb 3, 2024",
+    "author": "Lisa Thompson",
+    "tags": ["remote-work", "HR", "trends"]
+  },
+  {
+    "title": "Smart Cities and IoT",
+    "content": "Smart city initiatives are deploying sensors and IoT devices across urban areas. &#8220;The goal is to optimize traffic, reduce energy usage, and improve public safety.&#8221; Barcelona and Singapore lead the way.",
+    "url": "https://urban-tech.io/smart-cities",
+    "date": "2024-02-01",
+    "author": "Urban Tech Magazine",
+    "tags": ["IoT", "smart-cities"]
+  },
+  {
+    "title": "Food Security Report",
+    "content": null,
+    "url": "https://un.org/food-security",
+    "date": "3 Feb 2024",
+    "author": "UN FAO",
+    "tags": ["food", "agriculture"]
+  },
+  {
+    "title": "Cybersecurity Best Practices",
+    "content": "Protect your systems with these essential tips: use strong passwords, enable 2FA, keep software updated. The threat landscape evolves constantly—stay vigilant. Regular audits can reveal vulnerabilities before attackers find them.",
+    "url": "https://security-blog.com/best-practices",
+    "date": "02/03/2024",
+    "author": "Security Pro",
+    "tags": ["security", "cybersecurity"]
+  },
+  {
+    "title": "Art\u00efcle with Enc\u00f6ding Iss\u00fces",
+    "content": "This text contains \u201ccurly quotes\u201d and special chars like \u2013 en-dash \u2014 em-dash. Some mojibake: Caf\u00e9. Unicode: \u2600 \u2764",
+    "url": "https://example.com/article-encoding",
+    "date": "15 Jan 2024",
+    "author": "Test Author",
+    "tags": ["encoding", "unicode"]
+  },
+  {
+    "title": "Missing URL Article",
+    "content": "This record has no valid URL field. It should be flagged during validation. The content is long enough to pass length checks.",
+    "url": null,
+    "date": "2024-01-25",
+    "author": "Test Data",
+    "tags": ["test"]
+  },
+  {
+    "title": "Complete Record",
+    "content": "This is a fully valid record with no data quality issues. It has proper formatting, a valid URL, and sufficient content length. Ideal for testing the pipeline on clean data.",
+    "url": "https://news.example.org/complete-record",
+    "date": "2024-02-03",
+    "author": "Quality Check",
+    "tags": ["valid", "sample"]
+  }
+]
