@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/25118892/README.md)
 # Data Cleaning and Validation Pipeline
 
 A Python pipeline for cleaning and validating scraped article data. Designed for raw web-scraped content with various data quality issues.
@@ -18,20 +17,9 @@ Assignment 1/
 ```
 
 ## Features
-
-**cleaner.py**
-- Remove HTML tags and entities (`&nbsp;`, `&amp;`, `&#8220;`, etc.)
-- Normalize whitespace (collapse multiple spaces, trim)
-- Normalize Unicode encoding (NFC, BOM, zero-width chars)
-- Standardize dates to ISO format (YYYY-MM-DD) from US, European, and text formats
-- Handle special characters (curly quotes, en/em dashes)
-
-**validator.py**
-- Check required fields: title, content, url
-- Validate URL format (http/https)
-- Enforce minimum content and title lengths
-- Flag invalid records with specific reasons
-- Generate quality report: total/valid/invalid counts, field completeness %, common failures
+- **Cleaning**: Remove HTML, normalize whitespace/encoding, standardize dates
+- **Validation**: Check required fields, validate URLs, enforce length requirements  
+- **Reporting**: Generate quality metrics and validation statistics
 
 ## How to Run
 
